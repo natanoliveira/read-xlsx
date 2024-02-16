@@ -110,7 +110,7 @@ app.post('/upload', upload.single('excelFile'), async (req, res) => {
 
     // {
     //     fieldname: 'excelFile',
-    //     originalname: '308-CETI DIDAÌ\x81CIO SILVA-OK.xlsx',
+    //     originalname: '308-NOMEAQRUIVO-OK.xlsx',
     //     encoding: '7bit',
     //     mimetype: 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
     //     destination: 'uploads/',
